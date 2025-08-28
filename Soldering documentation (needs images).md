@@ -45,7 +45,7 @@ To use the soldering pen, here are two of many methods
 2. Touch the solder to the tip of the pen and have it coat the tip, then place the tip on the desired area (clean the tip when you are done) 
 
 ## optical lens 
-This is used to look at small components more closely and solder extremely small parts. The knobs 
+This is used to look at small components more closely and solder extremely small parts. 
 
 ## heat gun 
 This tool uses hot air to seal heat shrink or rapidly heat components. It has its own switch to activate. Do not apply to surfaces for too long because it will melt plastic. 
